@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+.bg-pink {
+	background-color: hotpink;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	font-family: Lobster, serif;
+	font-color: white;
+}
+.bg-purple {
+	background-color: mediumpurple;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	font-family: Lobster, serif;
+	font-color: white;
+}
