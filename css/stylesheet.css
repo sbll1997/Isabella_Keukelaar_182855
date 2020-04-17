@@ -1,5 +1,28 @@
 @charset "UTF-8";
 
+nav {
+	background: #5F065F;
+}
+
+h1 {
+	color: hotpink;
+	font-family: Lobster, serif;
+}
+
+h2 {
+  color: hotpink;
+	font-family: Lobster, serif;
+}
+
+h4 {
+	color: hotpink;
+	font-family: Lobster, serif;
+}
+
+article {
+	color: mediumpurple;
+}
+
 .bg-pink {
 	background-color: hotpink;
 	padding-top: 30px;
